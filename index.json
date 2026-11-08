@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "Anonymous-Recursive-Dense-Retrieval",
+  "versions": [
+    {
+      "commit": "e7f4040855e9731bea0b0c629a595b9734092c8c",
+      "tag": "",
+      "parsed_at": "2026-11-08T08:53:03.629679+00:00"
+    }
+  ]
+}
