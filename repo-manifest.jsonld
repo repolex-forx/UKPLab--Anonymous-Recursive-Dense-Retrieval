@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/Anonymous-Recursive-Dense-Retrieval/commit/e7f4040855e9731bea0b0c629a595b9734092c8c",
       "git:hexsha": "e7f4040855e9731bea0b0c629a595b9734092c8c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
